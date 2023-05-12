@@ -1,4 +1,4 @@
-##Auth API
+## Auth API
 
 Just a simple API to practice the authorization with:
 
